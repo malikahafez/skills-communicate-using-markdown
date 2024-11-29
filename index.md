@@ -7,6 +7,6 @@ int x = 1;
 ```c++
 bool flag = true;
 ```
-- [ ] Turn on GitHub Pages
+- [X] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
